@@ -1,16 +1,82 @@
 {
-  "posts":[
+  "todo": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "date": "December 30th 2020, 10:00 am",
+      "description": "Doe",
+      "status": "complete"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "date": "December 30th 2020, 11:10 am",
+      "description": "Doe",
+      "status": "complete"
+    },
+    {
+      "id": 3,
+      "date": "December 30th 2020, 12:00 pm",
+      "description": "Doe",
+      "status": "complete"
+    },
+    {
+      "id": 4,
+      "date": "December 30th 2020, 13:00 pm",
+      "description": "Doe",
+      "status": "complete"
+    },
+    {
+      "id": 5,
+      "date": "December 30th 2020, 14:30 pm",
+      "description": "Doe",
+      "status": "postponed"
+    },
+    {
+      "id": 6,
+      "date": "December 30th 2020, 15:15 pm",
+      "description": "Doe",
+      "status": "postponed"
+    },
+    {
+      "id": 7,
+      "date": "December 30th 2020, 16:05 pm",
+      "description": "Doe",
+      "status": "postponed"
+    },
+    {
+      "id": 8,
+      "date": "December 30th 2020, 17:20 pm",
+      "description": "Doe",
+      "status": "undone"
+    },
+    {
+      "id": 9,
+      "date": "December 30th 2020, 19:15 pm",
+      "description": "Doe",
+      "status": "undone"
+    },
+    {
+      "date": "December 25th 2020, 10:00 am",
+      "description": "",
+      "status": "complete",
+      "id": 10
+    },
+    {
+      "date": "December 22nd 2020, 6:00 am",
+      "description": "dummy",
+      "status": "undone",
+      "id": 11
+    },
+    {
+      "date": "December 15th 2020, 8:30 pm",
+      "description": "reading books",
+      "status": "undone",
+      "id": 12
+    },
+    {
+      "date": "December 18th 2020, 10:30 pm",
+      "description": "reading books",
+      "status": "undone",
+      "id": 13
     }
   ]
 }
