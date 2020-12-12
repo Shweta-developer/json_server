@@ -3,78 +3,78 @@
     {
       "id": 1,
       "date": "December 30th 2020, 10:00 am",
-      "description": "Doe",
+      "description": "Read newspaper",
       "status": "complete"
     },
     {
       "id": 2,
       "date": "December 30th 2020, 11:10 am",
-      "description": "Doe",
+      "description": "Go for Walk",
       "status": "complete"
     },
     {
       "id": 3,
       "date": "December 30th 2020, 12:00 pm",
-      "description": "Doe",
+      "description": "Cook",
       "status": "complete"
     },
     {
       "id": 4,
       "date": "December 30th 2020, 13:00 pm",
-      "description": "Doe",
+      "description": "Have Lunch",
       "status": "complete"
     },
     {
       "id": 5,
       "date": "December 30th 2020, 14:30 pm",
-      "description": "Doe",
+      "description": "Go to Library",
       "status": "postponed"
     },
     {
       "id": 6,
       "date": "December 30th 2020, 15:15 pm",
-      "description": "Doe",
+      "description": "Have coffee",
       "status": "postponed"
     },
     {
       "id": 7,
       "date": "December 30th 2020, 16:05 pm",
-      "description": "Doe",
+      "description": "Go to Gym",
       "status": "postponed"
     },
     {
       "id": 8,
       "date": "December 30th 2020, 17:20 pm",
-      "description": "Doe",
+      "description": "Watch TV",
       "status": "undone"
     },
     {
       "id": 9,
       "date": "December 30th 2020, 19:15 pm",
-      "description": "Doe",
+      "description": "Cook Dinner",
       "status": "undone"
     },
     {
       "date": "December 25th 2020, 10:00 am",
-      "description": "",
+      "description": "Go for Run",
       "status": "complete",
       "id": 10
     },
     {
       "date": "December 22nd 2020, 6:00 am",
-      "description": "dummy",
+      "description": "Do Yoga",
       "status": "undone",
       "id": 11
     },
     {
       "date": "December 15th 2020, 8:30 pm",
-      "description": "reading books",
+      "description": "read books",
       "status": "undone",
       "id": 12
     },
     {
       "date": "December 18th 2020, 10:30 pm",
-      "description": "reading books",
+      "description": "read books",
       "status": "undone",
       "id": 13
     }
